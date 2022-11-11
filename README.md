@@ -1,3 +1,12 @@
+I created a password generator where the user is prompted to enter a password using a combination of numbers, upper and lower case letters and special characters. 
+If the password entered is too short the user is alerted to enter lowercase letters, then alerted to enter uppercase letters and then special characters.
+After all the alerts have shown then the generator will generate a random password from 8-128 characters that meet the criteria.
+
+
+<img width="1470" alt="Screen Shot 2022-11-10 at 8 15 38 PM" src="https://user-images.githubusercontent.com/116019238/201250365-a24340bf-0863-4f02-8b3d-99fb49d9a6ef.png">
+
+
+
 # 03 JavaScript: Password Generator
 
 ## Your Task
