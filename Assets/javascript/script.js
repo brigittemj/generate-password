@@ -38,7 +38,7 @@ function generatePassword() {
     if (wantNumbers) {
       userChoices.push(numbers);
     }
-    var wantSpecialCharacters = confirm ('CLick "okay" for specialCharcters, or "cancel" for no specialCharacters')
+    var wantSpecialCharacters = confirm ('Click "okay" for specialCharcters, or "cancel" for no specialCharacters')
     if (wantSpecialCharacters) {
       userChoices.push(specialCharacters);
     }
